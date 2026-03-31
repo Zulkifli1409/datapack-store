@@ -16,7 +16,7 @@ Dibangun dengan React 18 + Vite, Zustand, TanStack Query, Tailwind CSS, dan json
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/Zulkifli1409/datapack-store
 cd datapack-store
 
 # Install semua dependency
