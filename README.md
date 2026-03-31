@@ -365,7 +365,7 @@ Tanpa bantuan AI assistant, perkiraan saya sekitar 10–12 jam untuk scope yang 
 
 ## Catatan Soal Rekaman Zoom
 
-Saya mohon maaf — saya lupa menyalakan Zoom dan merekam sesi pengerjaan. Sebagai gantinya, seluruh riwayat pengerjaan bisa dilihat melalui git commit history di repositori ini.
+Saya mohon maaf — saya lupa menyalakan Zoom dan merekam sesi pengerjaan.
 
 ### Transparansi: Penggunaan AI Assistant
 
