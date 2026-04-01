@@ -1,0 +1,2066 @@
+{
+  "packages": [
+    {
+      "id": "xl-1",
+      "name": "Paket Xtra Combo VIP",
+      "provider": "XL",
+      "quota": 30,
+      "quotaUnit": "GB",
+      "price": 85000,
+      "originalPrice": 120000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 1250,
+      "description": "Nikmati internet cepat tanpa batas kuota di aplikasi favorit dengan jaringan prioritas VIP.",
+      "features": [
+        "30GB Kuota Utama",
+        "Unlimited YouTube, Instagram, TikTok",
+        "Gratis Nelpon 1 Jam ke Semua Operator"
+      ],
+      "badge": "Terlaris",
+      "category": "combo"
+    },
+    {
+      "id": "xl-2",
+      "name": "XTRA Kuota TikTok",
+      "provider": "XL",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 10000,
+      "originalPrice": 15000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.8,
+      "reviewCount": 420,
+      "description": "Nge-scroll TikTok tanpa batas dengan XTRA kuota aplikasi super murah.",
+      "features": [
+        "10GB Kuota Khusus TikTok",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "xl-3",
+      "name": "Xtra Harian 1GB",
+      "provider": "XL",
+      "quota": 1,
+      "quotaUnit": "GB",
+      "price": 5000,
+      "originalPrice": 8000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 310,
+      "description": "Kuota harian cukup buat seharian internetan santai.",
+      "features": [
+        "1GB Kuota Utama 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "xl-4",
+      "name": "Xtra Harian 3GB",
+      "provider": "XL",
+      "quota": 3,
+      "quotaUnit": "GB",
+      "price": 10000,
+      "originalPrice": 13000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 275,
+      "description": "Kuota harian besar cocok untuk streaming dan video call.",
+      "features": [
+        "3GB Kuota Utama 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "xl-5",
+      "name": "Xtra Mingguan 10GB",
+      "provider": "XL",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 28000,
+      "originalPrice": 35000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 530,
+      "description": "Hemat kuota seminggu penuh, cocok untuk kerja dari rumah.",
+      "features": [
+        "10GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "xl-6",
+      "name": "Xtra Mingguan 20GB",
+      "provider": "XL",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 45000,
+      "originalPrice": 55000,
+      "validDays": 7,
+      "speed": "4G/5G",
+      "rating": 4.6,
+      "reviewCount": 680,
+      "description": "Kuota mingguan jumbo untuk pengguna aktif.",
+      "features": [
+        "20GB Kuota Utama",
+        "Akses 5G di Kota Pilihan",
+        "Berlaku 7 Hari"
+      ],
+      "badge": "Promo",
+      "category": "mingguan"
+    },
+    {
+      "id": "xl-7",
+      "name": "Xtra Bulanan 15GB",
+      "provider": "XL",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 50000,
+      "originalPrice": 65000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 870,
+      "description": "Paket bulanan terjangkau untuk kebutuhan internet sehari-hari.",
+      "features": [
+        "15GB Kuota Utama",
+        "Berlaku 30 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "bulanan"
+    },
+    {
+      "id": "xl-8",
+      "name": "Xtra Bulanan 50GB",
+      "provider": "XL",
+      "quota": 50,
+      "quotaUnit": "GB",
+      "price": 130000,
+      "originalPrice": 160000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 1100,
+      "description": "Kuota jumbo untuk keluarga atau pengguna berat.",
+      "features": [
+        "50GB Kuota Utama",
+        "Akses 5G",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Jumbo",
+      "category": "bulanan"
+    },
+    {
+      "id": "xl-9",
+      "name": "Xtra Unlimited Malam",
+      "provider": "XL",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 20000,
+      "originalPrice": 30000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 490,
+      "description": "Internetan bebas tengah malam sampai subuh sepuasnya.",
+      "features": [
+        "Unlimited 01.00 - 05.00",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "unlimited"
+    },
+    {
+      "id": "xl-10",
+      "name": "Xtra Unlimited Bulanan",
+      "provider": "XL",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 100000,
+      "originalPrice": 130000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 1340,
+      "description": "Bebas internetan sebulan penuh tanpa khawatir kuota habis.",
+      "features": [
+        "Unlimited Internet",
+        "FUP 150GB",
+        "Akses 5G di Kota Pilihan"
+      ],
+      "badge": "Best Value",
+      "category": "unlimited"
+    },
+    {
+      "id": "xl-11",
+      "name": "Xtra Kuota YouTube",
+      "provider": "XL",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 15000,
+      "originalPrice": 20000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 560,
+      "description": "Nonton YouTube tanpa lag dengan kuota khusus super hemat.",
+      "features": [
+        "15GB Kuota YouTube",
+        "Berlaku 7 Hari",
+        "Resolusi HD"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "xl-12",
+      "name": "Xtra Kuota Instagram",
+      "provider": "XL",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 10000,
+      "originalPrice": 14000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 390,
+      "description": "Scroll Instagram seharian penuh tanpa khawatir kuota habis.",
+      "features": [
+        "10GB Kuota Instagram",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "xl-13",
+      "name": "Xtra Gaming Weekly",
+      "provider": "XL",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 35000,
+      "originalPrice": 45000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.8,
+      "reviewCount": 760,
+      "description": "Ping rendah, koneksi stabil khusus para gamer.",
+      "features": [
+        "20GB Kuota Gaming",
+        "Ping Rendah Priority",
+        "Berlaku 7 Hari"
+      ],
+      "badge": "Gaming",
+      "category": "aplikasi"
+    },
+    {
+      "id": "xl-14",
+      "name": "Xtra Combo Work From Home",
+      "provider": "XL",
+      "quota": 40,
+      "quotaUnit": "GB",
+      "price": 110000,
+      "originalPrice": 140000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 920,
+      "description": "Paket khusus WFH dengan kuota besar dan koneksi stabil.",
+      "features": [
+        "40GB Kuota Utama",
+        "Unlimited Zoom & Teams",
+        "Gratis Nelpon 2 Jam/Hari"
+      ],
+      "badge": "WFH",
+      "category": "combo"
+    },
+    {
+      "id": "xl-15",
+      "name": "Xtra Starter 5GB",
+      "provider": "XL",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 18000,
+      "originalPrice": 23000,
+      "validDays": 14,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 210,
+      "description": "Paket pemula 2 minggu cocok untuk pemakai ringan.",
+      "features": [
+        "5GB Kuota Utama",
+        "Berlaku 14 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "xl-16",
+      "name": "Xtra 5G Booster",
+      "provider": "XL",
+      "quota": 25,
+      "quotaUnit": "GB",
+      "price": 95000,
+      "originalPrice": 115000,
+      "validDays": 30,
+      "speed": "5G",
+      "rating": 4.9,
+      "reviewCount": 340,
+      "description": "Rasakan kecepatan 5G sesungguhnya untuk wilayah yang sudah tercakup.",
+      "features": [
+        "25GB Kuota 5G Priority",
+        "Speed hingga 1 Gbps",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "5G",
+      "category": "bulanan"
+    },
+    {
+      "id": "xl-17",
+      "name": "Xtra Combo Keluarga",
+      "provider": "XL",
+      "quota": 60,
+      "quotaUnit": "GB",
+      "price": 175000,
+      "originalPrice": 210000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 580,
+      "description": "Paket keluarga hemat dengan kuota besar bisa dibagikan.",
+      "features": [
+        "60GB Kuota Bersama",
+        "Gratis Nelpon Sesama XL Unlimited",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Keluarga",
+      "category": "combo"
+    },
+    {
+      "id": "xl-18",
+      "name": "Xtra Kuota WhatsApp",
+      "provider": "XL",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 5000,
+      "originalPrice": 8000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 290,
+      "description": "Tetap chat dan kirim file di WhatsApp tanpa khawatir.",
+      "features": [
+        "5GB Kuota WhatsApp",
+        "Berlaku 7 Hari",
+        "Termasuk WA Bisnis"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "xl-19",
+      "name": "Xtra Roaming Asia",
+      "provider": "XL",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 150000,
+      "originalPrice": 200000,
+      "validDays": 15,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 130,
+      "description": "Tetap terhubung saat jalan-jalan ke negara Asia pilihan.",
+      "features": [
+        "5GB Kuota Roaming Asia",
+        "Berlaku di 10+ Negara Asia",
+        "Berlaku 15 Hari"
+      ],
+      "badge": "Roaming",
+      "category": "roaming"
+    },
+    {
+      "id": "xl-20",
+      "name": "Xtra Combo Premium 100GB",
+      "provider": "XL",
+      "quota": 100,
+      "quotaUnit": "GB",
+      "price": 220000,
+      "originalPrice": 280000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.9,
+      "reviewCount": 430,
+      "description": "Paket premium all-in-one untuk pengguna power user sejati.",
+      "features": [
+        "100GB Kuota Utama",
+        "Unlimited Sosmed & Streaming",
+        "Gratis Nelpon Unlimited ke Semua Operator"
+      ],
+      "badge": "Premium",
+      "category": "combo"
+    },
+    {
+      "id": "tsel-1",
+      "name": "Telkomsel OMG! Nonton",
+      "provider": "Telkomsel",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 95000,
+      "originalPrice": 105000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.9,
+      "reviewCount": 3200,
+      "description": "Paket internet andalan dengan sinyal terkuat di seluruh pelosok negeri. Cocok untuk streaming film HD.",
+      "features": [
+        "15GB Kuota Utama",
+        "5GB Kuota Nonton (Maxstream)",
+        "Langganan Prime Video 1 Bulan Gratis"
+      ],
+      "bonus": "Prime Video",
+      "badge": "Streaming",
+      "category": "combo"
+    },
+    {
+      "id": "tsel-2",
+      "name": "Internet Sakti Bulanan",
+      "provider": "Telkomsel",
+      "quota": 11,
+      "quotaUnit": "GB",
+      "price": 32000,
+      "originalPrice": 45000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 1650,
+      "description": "Paket sakti untuk memuaskan kebutuhan internet harian kamu bulan ini.",
+      "features": [
+        "11GB Kuota 24 Jam Semua Jaringan",
+        "Langganan Disney+ Hotstar 1 Bulan"
+      ],
+      "badge": "Promo",
+      "category": "bulanan"
+    },
+    {
+      "id": "tsel-3",
+      "name": "Telkomsel Harian 1GB",
+      "provider": "Telkomsel",
+      "quota": 1,
+      "quotaUnit": "GB",
+      "price": 6000,
+      "originalPrice": 9000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 870,
+      "description": "Kuota harian terpercaya dengan sinyal Telkomsel terkuat.",
+      "features": [
+        "1GB Kuota 24 Jam",
+        "Jaringan 4G Terluas"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "tsel-4",
+      "name": "Telkomsel Harian 2.5GB",
+      "provider": "Telkomsel",
+      "quota": 2,
+      "quotaUnit": "GB",
+      "price": 10000,
+      "originalPrice": 14000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 730,
+      "description": "Cukup untuk seharian streaming dan browsing tanpa gangguan.",
+      "features": [
+        "2.5GB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "tsel-5",
+      "name": "Telkomsel Mingguan 8GB",
+      "provider": "Telkomsel",
+      "quota": 8,
+      "quotaUnit": "GB",
+      "price": 25000,
+      "originalPrice": 32000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 960,
+      "description": "Hemat seminggu penuh dengan jaringan Telkomsel terluas.",
+      "features": [
+        "8GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "tsel-6",
+      "name": "Telkomsel Mingguan 20GB",
+      "provider": "Telkomsel",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 50000,
+      "originalPrice": 65000,
+      "validDays": 7,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 1120,
+      "description": "Kuota mingguan jumbo untuk koneksi stabil setiap hari.",
+      "features": [
+        "20GB Kuota Utama",
+        "Akses 5G",
+        "Berlaku 7 Hari"
+      ],
+      "badge": "Promo",
+      "category": "mingguan"
+    },
+    {
+      "id": "tsel-7",
+      "name": "Telkomsel Unlimited SocialMed",
+      "provider": "Telkomsel",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 35000,
+      "originalPrice": 50000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 1430,
+      "description": "Unlimited sosial media sepuasnya tanpa batas.",
+      "features": [
+        "Unlimited WhatsApp, IG, TikTok, Twitter",
+        "FUP 50GB untuk Browsing",
+        "Berlaku 30 Hari"
+      ],
+      "category": "unlimited"
+    },
+    {
+      "id": "tsel-8",
+      "name": "Telkomsel Unlimited MAX",
+      "provider": "Telkomsel",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 120000,
+      "originalPrice": 150000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 2100,
+      "description": "Bebas internet total tanpa FUP ketat dengan sinyal terkuat se-Indonesia.",
+      "features": [
+        "Unlimited Internet",
+        "FUP 200GB",
+        "Akses 5G",
+        "Nelpon Gratis 100 Menit"
+      ],
+      "badge": "Best Value",
+      "category": "unlimited"
+    },
+    {
+      "id": "tsel-9",
+      "name": "Telkomsel Gaming Pro",
+      "provider": "Telkomsel",
+      "quota": 30,
+      "quotaUnit": "GB",
+      "price": 75000,
+      "originalPrice": 90000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 890,
+      "description": "Ping rendah terjamin untuk pengalaman gaming tanpa lag.",
+      "features": [
+        "30GB Kuota Gaming Priority",
+        "Ping < 10ms",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Gaming",
+      "category": "aplikasi"
+    },
+    {
+      "id": "tsel-10",
+      "name": "Telkomsel OMG! Musik",
+      "provider": "Telkomsel",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 25000,
+      "originalPrice": 35000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 670,
+      "description": "Dengerin musik favorit tanpa kuota utama terkuras.",
+      "features": [
+        "10GB Kuota Musik (Spotify, Joox)",
+        "Berlaku 30 Hari"
+      ],
+      "bonus": "Spotify 1 Bulan",
+      "category": "aplikasi"
+    },
+    {
+      "id": "tsel-11",
+      "name": "Telkomsel Bulanan 30GB",
+      "provider": "Telkomsel",
+      "quota": 30,
+      "quotaUnit": "GB",
+      "price": 85000,
+      "originalPrice": 100000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 1560,
+      "description": "Paket bulanan andalan dengan kuota besar dan sinyal terkuat.",
+      "features": [
+        "30GB Kuota Utama",
+        "Jaringan 4G/5G",
+        "Berlaku 30 Hari"
+      ],
+      "category": "bulanan"
+    },
+    {
+      "id": "tsel-12",
+      "name": "Telkomsel Bulanan 50GB",
+      "provider": "Telkomsel",
+      "quota": 50,
+      "quotaUnit": "GB",
+      "price": 140000,
+      "originalPrice": 170000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 1230,
+      "description": "Kuota jumbo bulanan untuk pengguna berat dan keluarga.",
+      "features": [
+        "50GB Kuota Utama",
+        "Akses 5G Priority",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Jumbo",
+      "category": "bulanan"
+    },
+    {
+      "id": "tsel-13",
+      "name": "Telkomsel By.U 20GB",
+      "provider": "Telkomsel",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 45000,
+      "originalPrice": 60000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 980,
+      "description": "Paket digital by.U yang fleksibel, beli lewat aplikasi.",
+      "features": [
+        "20GB Kuota Utama",
+        "Berlaku 30 Hari",
+        "Beli via Aplikasi by.U"
+      ],
+      "badge": "Digital",
+      "category": "bulanan"
+    },
+    {
+      "id": "tsel-14",
+      "name": "Telkomsel Roaming Asia",
+      "provider": "Telkomsel",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 180000,
+      "originalPrice": 220000,
+      "validDays": 15,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 240,
+      "description": "Terhubung terus saat liburan di Asia dengan sinyal Telkomsel.",
+      "features": [
+        "5GB Kuota Roaming Asia",
+        "Berlaku di 15+ Negara Asia",
+        "Berlaku 15 Hari"
+      ],
+      "badge": "Roaming",
+      "category": "roaming"
+    },
+    {
+      "id": "tsel-15",
+      "name": "Telkomsel Combo Prestige",
+      "provider": "Telkomsel",
+      "quota": 80,
+      "quotaUnit": "GB",
+      "price": 250000,
+      "originalPrice": 300000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.9,
+      "reviewCount": 560,
+      "description": "Paket paling premium Telkomsel untuk pengalaman internet tertinggi.",
+      "features": [
+        "80GB Kuota Utama 5G",
+        "Unlimited Streaming Maxstream",
+        "Nelpon Gratis 500 Menit ke Semua Operator"
+      ],
+      "badge": "Premium",
+      "category": "combo"
+    },
+    {
+      "id": "tsel-16",
+      "name": "Telkomsel WFH Combo",
+      "provider": "Telkomsel",
+      "quota": 45,
+      "quotaUnit": "GB",
+      "price": 125000,
+      "originalPrice": 160000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 710,
+      "description": "Paket work from home terlengkap untuk produktivitas maksimal.",
+      "features": [
+        "45GB Kuota Utama",
+        "Unlimited Zoom & Google Meet",
+        "Gratis Office 365 1 Bulan"
+      ],
+      "badge": "WFH",
+      "category": "combo"
+    },
+    {
+      "id": "tsel-17",
+      "name": "Telkomsel OMG! TikTok",
+      "provider": "Telkomsel",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 20000,
+      "originalPrice": 28000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 820,
+      "description": "Scroll TikTok sepuasnya seminggu penuh tanpa batas.",
+      "features": [
+        "20GB Kuota TikTok",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "tsel-18",
+      "name": "Telkomsel 5G Speed Test",
+      "provider": "Telkomsel",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 50000,
+      "originalPrice": 70000,
+      "validDays": 7,
+      "speed": "5G",
+      "rating": 4.9,
+      "reviewCount": 190,
+      "description": "Rasakan kecepatan 5G Telkomsel yang sesungguhnya di kotamu.",
+      "features": [
+        "10GB Kuota 5G Ultra Speed",
+        "Speed hingga 2 Gbps",
+        "Berlaku 7 Hari"
+      ],
+      "badge": "5G",
+      "category": "bulanan"
+    },
+    {
+      "id": "tsel-19",
+      "name": "Telkomsel Combo Keluarga",
+      "provider": "Telkomsel",
+      "quota": 75,
+      "quotaUnit": "GB",
+      "price": 200000,
+      "originalPrice": 240000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 650,
+      "description": "Kuota bersama keluarga dengan koneksi stabil dan jaringan terluas.",
+      "features": [
+        "75GB Kuota Bersama",
+        "Unlimited Nelpon Sesama Telkomsel",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Keluarga",
+      "category": "combo"
+    },
+    {
+      "id": "tsel-20",
+      "name": "Telkomsel YouTube Unlimited",
+      "provider": "Telkomsel",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 30000,
+      "originalPrice": 40000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 1430,
+      "description": "Nonton YouTube sepuasnya tanpa kuota utama berkurang.",
+      "features": [
+        "Unlimited YouTube",
+        "Berlaku 30 Hari",
+        "Resolusi hingga 4K"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "im3-1",
+      "name": "Freedom Internet Daily",
+      "provider": "Indosat",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 15000,
+      "originalPrice": 20000,
+      "validDays": 3,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 850,
+      "description": "Paket hemat harian dengan kuota besar. Bebas perpanjang kapan saja.",
+      "features": [
+        "5GB Kuota 24 Jam",
+        "Bisa digunakan di semua jaringan 3G/4G",
+        "Data Rollover"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "im3-2",
+      "name": "Freedom U",
+      "provider": "Indosat",
+      "quota": 25,
+      "quotaUnit": "GB",
+      "price": 75000,
+      "originalPrice": 80000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 2130,
+      "description": "Paket komplit untuk sosial media sehari-hari tanpa takut kehabisan.",
+      "features": [
+        "5GB Kuota Utama",
+        "20GB Kuota Apps (YouTube, Instagram, dll)",
+        "Pulsa Safe"
+      ],
+      "category": "combo"
+    },
+    {
+      "id": "im3-3",
+      "name": "IM3 Harian 1GB",
+      "provider": "Indosat",
+      "quota": 1,
+      "quotaUnit": "GB",
+      "price": 5000,
+      "originalPrice": 8000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 420,
+      "description": "Kuota harian hemat cukup untuk aktivitas ringan seharian.",
+      "features": [
+        "1GB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "im3-4",
+      "name": "IM3 Harian 4GB",
+      "provider": "Indosat",
+      "quota": 4,
+      "quotaUnit": "GB",
+      "price": 12000,
+      "originalPrice": 16000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 380,
+      "description": "Kuota harian besar untuk streaming dan video call tanpa batas.",
+      "features": [
+        "4GB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "im3-5",
+      "name": "Freedom Mingguan 10GB",
+      "provider": "Indosat",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 28000,
+      "originalPrice": 35000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 610,
+      "description": "Cukup sepekan untuk kerja, hiburan, dan sosial media.",
+      "features": [
+        "10GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "im3-6",
+      "name": "Freedom Mingguan 25GB",
+      "provider": "Indosat",
+      "quota": 25,
+      "quotaUnit": "GB",
+      "price": 50000,
+      "originalPrice": 65000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 780,
+      "description": "Kuota mingguan jumbo untuk kamu yang aktif di internet.",
+      "features": [
+        "25GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "badge": "Promo",
+      "category": "mingguan"
+    },
+    {
+      "id": "im3-7",
+      "name": "Freedom Internet Bulanan 20GB",
+      "provider": "Indosat",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 55000,
+      "originalPrice": 70000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 1340,
+      "description": "Paket bulanan dengan kuota lega untuk kebutuhan sehari-hari.",
+      "features": [
+        "20GB Kuota Utama",
+        "Berlaku 30 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "bulanan"
+    },
+    {
+      "id": "im3-8",
+      "name": "Freedom Internet Bulanan 50GB",
+      "provider": "Indosat",
+      "quota": 50,
+      "quotaUnit": "GB",
+      "price": 130000,
+      "originalPrice": 160000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 980,
+      "description": "Kuota jumbo bulanan untuk pengguna berat dan keluarga.",
+      "features": [
+        "50GB Kuota Utama",
+        "Akses 5G di Kota Pilihan",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Jumbo",
+      "category": "bulanan"
+    },
+    {
+      "id": "im3-9",
+      "name": "Freedom Unlimited Sosmed",
+      "provider": "Indosat",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 40000,
+      "originalPrice": 55000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 1230,
+      "description": "Main sosmed sepuasnya sebulan penuh tanpa batas.",
+      "features": [
+        "Unlimited WhatsApp, IG, TikTok, Twitter/X",
+        "FUP 60GB untuk Browsing",
+        "Berlaku 30 Hari"
+      ],
+      "category": "unlimited"
+    },
+    {
+      "id": "im3-10",
+      "name": "Freedom Unlimited Total",
+      "provider": "Indosat",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 90000,
+      "originalPrice": 120000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 1870,
+      "description": "Internet bebas total tanpa takut habis dengan FUP lega.",
+      "features": [
+        "Unlimited Internet",
+        "FUP 150GB",
+        "Akses 5G",
+        "Nelpon Gratis 60 Menit"
+      ],
+      "badge": "Best Value",
+      "category": "unlimited"
+    },
+    {
+      "id": "im3-11",
+      "name": "IM3 Gaming Booster",
+      "provider": "Indosat",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 40000,
+      "originalPrice": 55000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 760,
+      "description": "Koneksi stabil dan ping rendah khusus untuk para gamer.",
+      "features": [
+        "20GB Kuota Gaming",
+        "Ping Rendah Priority",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Gaming",
+      "category": "aplikasi"
+    },
+    {
+      "id": "im3-12",
+      "name": "IM3 Kuota YouTube",
+      "provider": "Indosat",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 12000,
+      "originalPrice": 18000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 490,
+      "description": "Nonton YouTube HD tanpa mengurangi kuota utama.",
+      "features": [
+        "15GB Kuota YouTube",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "im3-13",
+      "name": "IM3 Kuota TikTok",
+      "provider": "Indosat",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 8000,
+      "originalPrice": 12000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 360,
+      "description": "TikTok-an seharian tanpa kuota utama berkurang.",
+      "features": [
+        "10GB Kuota TikTok",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "im3-14",
+      "name": "Freedom Combo Lengkap 40GB",
+      "provider": "Indosat",
+      "quota": 40,
+      "quotaUnit": "GB",
+      "price": 110000,
+      "originalPrice": 140000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.8,
+      "reviewCount": 870,
+      "description": "Paket kombo terlengkap dengan kuota besar dan bonus nelpon.",
+      "features": [
+        "40GB Kuota Utama",
+        "Unlimited Sosmed",
+        "Gratis Nelpon 1 Jam/Hari"
+      ],
+      "badge": "Terlaris",
+      "category": "combo"
+    },
+    {
+      "id": "im3-15",
+      "name": "IM3 Starter Mingguan 5GB",
+      "provider": "Indosat",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 18000,
+      "originalPrice": 25000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 240,
+      "description": "Paket mingguan hemat untuk pemakai ringan.",
+      "features": [
+        "5GB Kuota Utama",
+        "Berlaku 7 Hari"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "im3-16",
+      "name": "IM3 5G Booster",
+      "provider": "Indosat",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 80000,
+      "originalPrice": 100000,
+      "validDays": 30,
+      "speed": "5G",
+      "rating": 4.8,
+      "reviewCount": 290,
+      "description": "Akses internet 5G tercepat Indosat di kota-kota besar.",
+      "features": [
+        "20GB Kuota 5G",
+        "Speed hingga 1 Gbps",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "5G",
+      "category": "bulanan"
+    },
+    {
+      "id": "im3-17",
+      "name": "Freedom Roaming Asia",
+      "provider": "Indosat",
+      "quota": 3,
+      "quotaUnit": "GB",
+      "price": 130000,
+      "originalPrice": 170000,
+      "validDays": 10,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 110,
+      "description": "Tetap online saat berwisata ke negara Asia dengan IM3.",
+      "features": [
+        "3GB Kuota Roaming",
+        "Berlaku di 10+ Negara Asia",
+        "Berlaku 10 Hari"
+      ],
+      "badge": "Roaming",
+      "category": "roaming"
+    },
+    {
+      "id": "im3-18",
+      "name": "IM3 Kuota WhatsApp",
+      "provider": "Indosat",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 4000,
+      "originalPrice": 7000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 320,
+      "description": "Chat dan kirim file di WhatsApp tanpa kuota utama berkurang.",
+      "features": [
+        "5GB Kuota WhatsApp",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "im3-19",
+      "name": "Freedom Combo Keluarga",
+      "provider": "Indosat",
+      "quota": 65,
+      "quotaUnit": "GB",
+      "price": 175000,
+      "originalPrice": 215000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.7,
+      "reviewCount": 510,
+      "description": "Kuota bersama untuk keluarga dengan harga hemat.",
+      "features": [
+        "65GB Kuota Bersama",
+        "Unlimited Nelpon Sesama IM3",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Keluarga",
+      "category": "combo"
+    },
+    {
+      "id": "im3-20",
+      "name": "Freedom Premium 100GB",
+      "provider": "Indosat",
+      "quota": 100,
+      "quotaUnit": "GB",
+      "price": 210000,
+      "originalPrice": 260000,
+      "validDays": 30,
+      "speed": "4G/5G",
+      "rating": 4.9,
+      "reviewCount": 380,
+      "description": "Paket premium all-in-one Indosat dengan kuota terbesar.",
+      "features": [
+        "100GB Kuota Utama",
+        "Unlimited Sosmed & Streaming",
+        "Gratis Nelpon Unlimited ke Semua Operator"
+      ],
+      "badge": "Premium",
+      "category": "combo"
+    },
+    {
+      "id": "tri-1",
+      "name": "Tri Unlimited 30 Hari",
+      "provider": "Tri",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 60000,
+      "originalPrice": 60000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 2100,
+      "description": "Bebas akses internet tanpa batasan kuota dan FUP super lega. Pilihan pas untuk pelajar dan mahasiswa.",
+      "features": [
+        "Unlimited Internet 24 Jam",
+        "FUP 100GB",
+        "Akses aplikasi chat pasca FUP"
+      ],
+      "bonus": "100 Poin Bonstri",
+      "category": "unlimited"
+    },
+    {
+      "id": "tri-2",
+      "name": "Tri Harian 1.5GB",
+      "provider": "Tri",
+      "quota": 1,
+      "quotaUnit": "GB",
+      "price": 5000,
+      "originalPrice": 7000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 520,
+      "description": "Kuota harian murah meriah cukup untuk aktivitas ringan.",
+      "features": [
+        "1.5GB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "tri-3",
+      "name": "Tri Harian 3GB",
+      "provider": "Tri",
+      "quota": 3,
+      "quotaUnit": "GB",
+      "price": 9000,
+      "originalPrice": 13000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 440,
+      "description": "Kuota harian besar untuk streaming dan video call.",
+      "features": [
+        "3GB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "tri-4",
+      "name": "Tri Mingguan 10GB",
+      "provider": "Tri",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 25000,
+      "originalPrice": 33000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 670,
+      "description": "Hemat seminggu penuh untuk kebutuhan internet harian.",
+      "features": [
+        "10GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "tri-5",
+      "name": "Tri Mingguan 20GB",
+      "provider": "Tri",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 45000,
+      "originalPrice": 55000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 780,
+      "description": "Kuota mingguan jumbo untuk pengguna aktif.",
+      "features": [
+        "20GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "badge": "Promo",
+      "category": "mingguan"
+    },
+    {
+      "id": "tri-6",
+      "name": "Tri Bulanan 15GB",
+      "provider": "Tri",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 42000,
+      "originalPrice": 55000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 1100,
+      "description": "Paket bulanan terjangkau dengan kuota cukup sebulan.",
+      "features": [
+        "15GB Kuota Utama",
+        "Berlaku 30 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "bulanan"
+    },
+    {
+      "id": "tri-7",
+      "name": "Tri Bulanan 30GB",
+      "provider": "Tri",
+      "quota": 30,
+      "quotaUnit": "GB",
+      "price": 75000,
+      "originalPrice": 90000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 1430,
+      "description": "Kuota bulanan jumbo untuk pengguna aktif internet.",
+      "features": [
+        "30GB Kuota Utama",
+        "Berlaku 30 Hari",
+        "Jaringan 4G"
+      ],
+      "badge": "Terlaris",
+      "category": "bulanan"
+    },
+    {
+      "id": "tri-8",
+      "name": "Tri Unlimited Malam",
+      "provider": "Tri",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 15000,
+      "originalPrice": 22000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 590,
+      "description": "Bebas internetan sepanjang malam dari jam 12 malam hingga subuh.",
+      "features": [
+        "Unlimited 00.00 - 05.00",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "unlimited"
+    },
+    {
+      "id": "tri-9",
+      "name": "Tri Unlimited SocialMed",
+      "provider": "Tri",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 30000,
+      "originalPrice": 42000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 1250,
+      "description": "Unlimited sosmed sebulan penuh tanpa khawatir kuota habis.",
+      "features": [
+        "Unlimited WhatsApp, IG, TikTok",
+        "FUP 40GB untuk Browsing",
+        "Berlaku 30 Hari"
+      ],
+      "category": "unlimited"
+    },
+    {
+      "id": "tri-10",
+      "name": "Tri Always On",
+      "provider": "Tri",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 80000,
+      "originalPrice": 100000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 1780,
+      "description": "Internetan tanpa batas sepanjang hari dengan FUP paling lega.",
+      "features": [
+        "Unlimited Internet 24 Jam",
+        "FUP 200GB",
+        "Nelpon Gratis Sesama Tri 60 Menit"
+      ],
+      "badge": "Best Value",
+      "category": "unlimited"
+    },
+    {
+      "id": "tri-11",
+      "name": "Tri Gaming Weekly",
+      "provider": "Tri",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 30000,
+      "originalPrice": 40000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 640,
+      "description": "Main game online tanpa lag dengan koneksi stabil Tri.",
+      "features": [
+        "15GB Kuota Gaming",
+        "Ping Rendah Priority",
+        "Berlaku 7 Hari"
+      ],
+      "badge": "Gaming",
+      "category": "aplikasi"
+    },
+    {
+      "id": "tri-12",
+      "name": "Tri Kuota YouTube",
+      "provider": "Tri",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 10000,
+      "originalPrice": 15000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 470,
+      "description": "Nonton YouTube tanpa batas tanpa kuota utama berkurang.",
+      "features": [
+        "15GB Kuota YouTube",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "tri-13",
+      "name": "Tri Kuota TikTok",
+      "provider": "Tri",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 8000,
+      "originalPrice": 12000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 350,
+      "description": "Scroll TikTok seharian tanpa mengurangi kuota utama.",
+      "features": [
+        "10GB Kuota TikTok",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "tri-14",
+      "name": "Tri Combo Pelajar",
+      "provider": "Tri",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 50000,
+      "originalPrice": 65000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 1560,
+      "description": "Paket hemat khusus pelajar dan mahasiswa untuk belajar dan hiburan.",
+      "features": [
+        "20GB Kuota Utama",
+        "Unlimited Aplikasi Belajar",
+        "Gratis Nelpon 30 Menit/Hari"
+      ],
+      "badge": "Pelajar",
+      "category": "combo"
+    },
+    {
+      "id": "tri-15",
+      "name": "Tri Combo WFH 40GB",
+      "provider": "Tri",
+      "quota": 40,
+      "quotaUnit": "GB",
+      "price": 100000,
+      "originalPrice": 130000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 820,
+      "description": "Paket WFH super hemat dengan kuota besar dan koneksi stabil.",
+      "features": [
+        "40GB Kuota Utama",
+        "Unlimited Zoom & Teams",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "WFH",
+      "category": "combo"
+    },
+    {
+      "id": "tri-16",
+      "name": "Tri Starter Harian",
+      "provider": "Tri",
+      "quota": 500,
+      "quotaUnit": "MB",
+      "price": 2000,
+      "originalPrice": 4000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.2,
+      "reviewCount": 230,
+      "description": "Paket paling hemat untuk chat dan browsing ringan sehari.",
+      "features": [
+        "500MB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "tri-17",
+      "name": "Tri Kuota WhatsApp",
+      "provider": "Tri",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 3500,
+      "originalPrice": 6000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 310,
+      "description": "Khusus WhatsApp agar tetap terhubung dengan keluarga dan rekan.",
+      "features": [
+        "5GB Kuota WhatsApp",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "tri-18",
+      "name": "Tri Bulanan 50GB",
+      "provider": "Tri",
+      "quota": 50,
+      "quotaUnit": "GB",
+      "price": 120000,
+      "originalPrice": 150000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 970,
+      "description": "Kuota jumbo sebulan penuh untuk pengguna berat.",
+      "features": [
+        "50GB Kuota Utama",
+        "Berlaku 30 Hari",
+        "Jaringan 4G"
+      ],
+      "badge": "Jumbo",
+      "category": "bulanan"
+    },
+    {
+      "id": "tri-19",
+      "name": "Tri Combo Keluarga",
+      "provider": "Tri",
+      "quota": 60,
+      "quotaUnit": "GB",
+      "price": 155000,
+      "originalPrice": 190000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 480,
+      "description": "Berbagi kuota bersama keluarga dengan harga lebih hemat.",
+      "features": [
+        "60GB Kuota Bersama",
+        "Unlimited Nelpon Sesama Tri",
+        "Berlaku 30 Hari"
+      ],
+      "badge": "Keluarga",
+      "category": "combo"
+    },
+    {
+      "id": "tri-20",
+      "name": "Tri Premium Unlimited",
+      "provider": "Tri",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 150000,
+      "originalPrice": 185000,
+      "validDays": 30,
+      "speed": "4G",
+      "rating": 4.8,
+      "reviewCount": 560,
+      "description": "Paket premium Tri dengan FUP terlega dan nelpon gratis sepuasnya.",
+      "features": [
+        "Unlimited Internet",
+        "FUP 300GB",
+        "Nelpon Gratis ke Semua Operator 200 Menit"
+      ],
+      "badge": "Premium",
+      "category": "unlimited"
+    },
+    {
+      "id": "sf-1",
+      "name": "Smartfren Kuota Nonstop",
+      "provider": "Smartfren",
+      "quota": 12,
+      "quotaUnit": "GB",
+      "price": 45000,
+      "originalPrice": 50000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 980,
+      "description": "Tetap bisa internetan meski kuota habis. Berlaku 24 jam di semua jaringan Smartfren khusus 4G.",
+      "features": [
+        "12GB Kuota 24 Jam",
+        "Akses bebas non-stop setelah kuota habis",
+        "Gratis Nelpon SESAMA Smartfren"
+      ],
+      "category": "nonstop"
+    },
+    {
+      "id": "sf-2",
+      "name": "Smartfren Harian 1GB",
+      "provider": "Smartfren",
+      "quota": 1,
+      "quotaUnit": "GB",
+      "price": 5000,
+      "originalPrice": 7000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.2,
+      "reviewCount": 340,
+      "description": "Kuota harian hemat untuk browsing dan chat ringan.",
+      "features": [
+        "1GB Kuota 24 Jam",
+        "Jaringan 4G Smartfren"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "sf-3",
+      "name": "Smartfren Harian 3GB",
+      "provider": "Smartfren",
+      "quota": 3,
+      "quotaUnit": "GB",
+      "price": 9000,
+      "originalPrice": 13000,
+      "validDays": 1,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 280,
+      "description": "Kuota harian cukup untuk streaming dan video call.",
+      "features": [
+        "3GB Kuota 24 Jam",
+        "Jaringan 4G"
+      ],
+      "category": "harian"
+    },
+    {
+      "id": "sf-4",
+      "name": "Smartfren Mingguan 8GB",
+      "provider": "Smartfren",
+      "quota": 8,
+      "quotaUnit": "GB",
+      "price": 22000,
+      "originalPrice": 30000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 410,
+      "description": "Kuota mingguan hemat untuk pemakai internet sedang.",
+      "features": [
+        "8GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "sf-5",
+      "name": "Smartfren Mingguan 20GB",
+      "provider": "Smartfren",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 40000,
+      "originalPrice": 52000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 530,
+      "description": "Kuota mingguan jumbo untuk pengguna aktif Smartfren.",
+      "features": [
+        "20GB Kuota Utama",
+        "Berlaku 7 Hari",
+        "Jaringan 4G"
+      ],
+      "badge": "Promo",
+      "category": "mingguan"
+    },
+    {
+      "id": "sf-6",
+      "name": "Smartfren Bulanan 20GB",
+      "provider": "Smartfren",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 60000,
+      "originalPrice": 75000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 870,
+      "description": "Paket bulanan cukup untuk kebutuhan internet sehari-hari.",
+      "features": [
+        "20GB Kuota Utama",
+        "Berlaku 28 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "bulanan"
+    },
+    {
+      "id": "sf-7",
+      "name": "Smartfren Bulanan 40GB",
+      "provider": "Smartfren",
+      "quota": 40,
+      "quotaUnit": "GB",
+      "price": 110000,
+      "originalPrice": 135000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 720,
+      "description": "Kuota bulanan jumbo Smartfren untuk pengguna berat.",
+      "features": [
+        "40GB Kuota Utama",
+        "Berlaku 28 Hari",
+        "Jaringan 4G"
+      ],
+      "badge": "Jumbo",
+      "category": "bulanan"
+    },
+    {
+      "id": "sf-8",
+      "name": "Smartfren Unlimited SocialMed",
+      "provider": "Smartfren",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 38000,
+      "originalPrice": 50000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 1050,
+      "description": "Main sosmed tanpa batas sebulan penuh dengan Smartfren.",
+      "features": [
+        "Unlimited WhatsApp, IG, TikTok",
+        "FUP 50GB untuk Browsing",
+        "Berlaku 28 Hari"
+      ],
+      "category": "unlimited"
+    },
+    {
+      "id": "sf-9",
+      "name": "Smartfren Unlimited MAX",
+      "provider": "Smartfren",
+      "quota": 999,
+      "quotaUnit": "GB",
+      "price": 85000,
+      "originalPrice": 110000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 1380,
+      "description": "Internetan bebas total tanpa batas dengan FUP super lega.",
+      "features": [
+        "Unlimited Internet",
+        "FUP 120GB",
+        "Nelpon Gratis Sesama Smartfren"
+      ],
+      "badge": "Best Value",
+      "category": "unlimited"
+    },
+    {
+      "id": "sf-10",
+      "name": "Smartfren Nonstop 20GB",
+      "provider": "Smartfren",
+      "quota": 20,
+      "quotaUnit": "GB",
+      "price": 65000,
+      "originalPrice": 80000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 860,
+      "description": "Kuota utama besar plus akses nonstop setelah kuota habis.",
+      "features": [
+        "20GB Kuota Utama",
+        "Akses Nonstop Pasca Kuota",
+        "Berlaku 28 Hari"
+      ],
+      "category": "nonstop"
+    },
+    {
+      "id": "sf-11",
+      "name": "Smartfren Gaming Weekly",
+      "provider": "Smartfren",
+      "quota": 15,
+      "quotaUnit": "GB",
+      "price": 28000,
+      "originalPrice": 38000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 490,
+      "description": "Koneksi stabil untuk gaming online seminggu penuh.",
+      "features": [
+        "15GB Kuota Gaming",
+        "Ping Rendah Priority",
+        "Berlaku 7 Hari"
+      ],
+      "badge": "Gaming",
+      "category": "aplikasi"
+    },
+    {
+      "id": "sf-12",
+      "name": "Smartfren Kuota YouTube",
+      "provider": "Smartfren",
+      "quota": 10,
+      "quotaUnit": "GB",
+      "price": 9000,
+      "originalPrice": 14000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 360,
+      "description": "Nonton YouTube sepuasnya tanpa kuota utama berkurang.",
+      "features": [
+        "10GB Kuota YouTube",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "sf-13",
+      "name": "Smartfren Kuota TikTok",
+      "provider": "Smartfren",
+      "quota": 8,
+      "quotaUnit": "GB",
+      "price": 7000,
+      "originalPrice": 11000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.4,
+      "reviewCount": 290,
+      "description": "TikTok-an seharian tanpa mengurangi kuota utama.",
+      "features": [
+        "8GB Kuota TikTok",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "sf-14",
+      "name": "Smartfren Combo Hemat 30GB",
+      "provider": "Smartfren",
+      "quota": 30,
+      "quotaUnit": "GB",
+      "price": 85000,
+      "originalPrice": 110000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 740,
+      "description": "Paket kombo terlengkap Smartfren untuk internet dan nelpon.",
+      "features": [
+        "30GB Kuota Utama",
+        "Unlimited Sosmed",
+        "Gratis Nelpon 1 Jam/Hari Sesama Smartfren"
+      ],
+      "badge": "Terlaris",
+      "category": "combo"
+    },
+    {
+      "id": "sf-15",
+      "name": "Smartfren Starter 5GB",
+      "provider": "Smartfren",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 17000,
+      "originalPrice": 22000,
+      "validDays": 14,
+      "speed": "4G",
+      "rating": 4.2,
+      "reviewCount": 190,
+      "description": "Paket 2 minggu hemat untuk pemakai ringan Smartfren.",
+      "features": [
+        "5GB Kuota Utama",
+        "Berlaku 14 Hari",
+        "Jaringan 4G"
+      ],
+      "category": "mingguan"
+    },
+    {
+      "id": "sf-16",
+      "name": "Smartfren WFH Combo",
+      "provider": "Smartfren",
+      "quota": 35,
+      "quotaUnit": "GB",
+      "price": 95000,
+      "originalPrice": 120000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 560,
+      "description": "Paket WFH hemat untuk produktivitas dari rumah.",
+      "features": [
+        "35GB Kuota Utama",
+        "Unlimited Zoom & Google Meet",
+        "Berlaku 28 Hari"
+      ],
+      "badge": "WFH",
+      "category": "combo"
+    },
+    {
+      "id": "sf-17",
+      "name": "Smartfren Kuota WhatsApp",
+      "provider": "Smartfren",
+      "quota": 5,
+      "quotaUnit": "GB",
+      "price": 3500,
+      "originalPrice": 6000,
+      "validDays": 7,
+      "speed": "4G",
+      "rating": 4.3,
+      "reviewCount": 240,
+      "description": "Chat dan kirim file di WhatsApp tanpa kuota utama berkurang.",
+      "features": [
+        "5GB Kuota WhatsApp",
+        "Berlaku 7 Hari"
+      ],
+      "category": "aplikasi"
+    },
+    {
+      "id": "sf-18",
+      "name": "Smartfren Nonstop Bulanan 50GB",
+      "provider": "Smartfren",
+      "quota": 50,
+      "quotaUnit": "GB",
+      "price": 140000,
+      "originalPrice": 170000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.6,
+      "reviewCount": 630,
+      "description": "Kuota jumbo plus nonstop untuk pengguna Smartfren yang aktif.",
+      "features": [
+        "50GB Kuota Utama",
+        "Akses Nonstop Pasca Kuota",
+        "Berlaku 28 Hari"
+      ],
+      "badge": "Jumbo",
+      "category": "nonstop"
+    },
+    {
+      "id": "sf-19",
+      "name": "Smartfren Combo Keluarga",
+      "provider": "Smartfren",
+      "quota": 55,
+      "quotaUnit": "GB",
+      "price": 155000,
+      "originalPrice": 190000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.5,
+      "reviewCount": 370,
+      "description": "Berbagi kuota bersama keluarga dengan harga paling hemat.",
+      "features": [
+        "55GB Kuota Bersama",
+        "Unlimited Nelpon Sesama Smartfren",
+        "Berlaku 28 Hari"
+      ],
+      "badge": "Keluarga",
+      "category": "combo"
+    },
+    {
+      "id": "sf-20",
+      "name": "Smartfren Premium All-In 80GB",
+      "provider": "Smartfren",
+      "quota": 80,
+      "quotaUnit": "GB",
+      "price": 195000,
+      "originalPrice": 240000,
+      "validDays": 28,
+      "speed": "4G",
+      "rating": 4.7,
+      "reviewCount": 310,
+      "description": "Paket terlengkap dan terbesar Smartfren untuk semua kebutuhan.",
+      "features": [
+        "80GB Kuota Utama",
+        "Unlimited Sosmed & Streaming",
+        "Gratis Nelpon 300 Menit ke Semua Operator"
+      ],
+      "badge": "Premium",
+      "category": "combo"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Zulkifli",
+      "email": "zul@demo.com",
+      "password": "demo123",
+      "phone": "08123456789"
+    },
+    {
+      "id": 2,
+      "name": "Joel",
+      "email": "joel@demo.com",
+      "password": "demo123",
+      "phone": "082198765432"
+    }
+  ],
+  "transactions": [
+    {
+      "userId": 1,
+      "packageId": "xl-1",
+      "packageName": "Paket Xtra Combo VIP",
+      "provider": "XL",
+      "quota": "30GB",
+      "price": 85000,
+      "phone": "08123456789",
+      "paymentMethod": "Saldo DataPack",
+      "createdAt": "2026-04-01T05:15:38.627Z",
+      "date": "2026-04-01T05:15:38.627Z",
+      "status": "success",
+      "transactionCode": "TRX-1775020538627",
+      "receiptNumber": "TRX-1775020538627",
+      "id": 1
+    }
+  ]
+}
